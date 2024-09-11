@@ -1,0 +1,13 @@
+.content {
+  background-image: url("https://www.copahost.com/blog/wp-content/uploads/2019/07/imgsize2.png");
+}
+
+.nav-bar {
+  display: flex;
+  align-items: center;
+}
+
+.menu-bar {
+    display: flex;
+    align-items: flex-start;
+}
